@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  margin: 30px;
+}
+
+h1,
+h2 {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+h3 {
+  padding: 1rem 0 0.5rem 0;
+}
+
+/** Form */
+.input-form {
+  background-color: lightgrey;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.input-label {
+  width: 130px;
+}
+
+.button {
+  margin: 20px 0 10px 0;
+  width: 130px;
+}
